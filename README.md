@@ -5,7 +5,7 @@ This program make vertexColor by using texture on Blender.
 
 # Install this add-on into Blender
 
-1.  Edit -> Preferences -> Add-ons -> Install...<br>
+1.  Edit -> Preferences > Add-ons > Install...<br>
 2.  Select this python file.<br>
 3.  Enable this add-on.<br>
 
