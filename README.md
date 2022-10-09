@@ -12,7 +12,7 @@ First, select objects.<br>
 Execute this add-on. 3D Viewport > Object > Output vertexColor<br>
 
 # Case of not working
-・Target objects are not selected.
-・Selecting objects are not mesh.
-・Selecting objects are not set material.
-・Material is not set image.
+・Target objects are not selected.<br>
+・Selected objects are not mesh.<br>
+・Selected objects are not assigned material.<br>
+・Texture image is not assigned on material.<br>
