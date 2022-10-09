@@ -4,11 +4,11 @@ Blender上でテクスチャの色を頂点カラーとして出力するアド�
 
 # Install this add-on into Blender
 
-1.  編集 -> プリファレンス -> アドオン -> インストール<br>
+1.  編集 > プリファレンス > アドオン > インストール...<br>
 2.  Pythonファイルを選択<br>
 3.  チェックボックスをオンにして有効化.<br>
 
 # Usage
 
-オブジェクトを選択した後、3Dビューポート -> オブジェクト -> Output vertexColor　を選択
+オブジェクトを選択した後、3Dビューポート > オブジェクト > Output vertexColor　を選択
 
